@@ -32,3 +32,10 @@ Important: if Cloudflare has created a **Worker** project configured with `npx w
 
 ## Privacy
 Do not put passwords, private phone numbers, or other information you do not want public in this repository. This repository is public, so anyone can view its source.
+
+
+## Updated website content
+- Includes 19 published interview post links provided by the project founder.
+- Includes three introductory Instagram videos.
+- Adds an ambassador information section and contact links.
+- University names in the marquee refer to guest affiliations and do not imply formal partnerships.
